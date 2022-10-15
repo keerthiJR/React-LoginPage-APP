@@ -23,8 +23,8 @@
 
 .nav button {
   font: inherit;
-  background: #dd0db0;
-  border: 1px solid #dd0db0;
+  background: #000000;
+  border: 1px solid #000000;
   padding: 0.5rem 1.5rem;
   color: white;
   cursor: pointer;
